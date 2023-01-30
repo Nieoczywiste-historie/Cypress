@@ -23,3 +23,7 @@ During this course I covered:
 * Testing Signup & Login using random user name and email
 * Testing API 
 
+## Project 2 API testing
+Using HTTP requests to test API via Cypress and checking response statuses
+
+[GET](https://github.com/Nieoczywiste-historie/Cypress/blob/main/get-request.js), [POST](https://github.com/Nieoczywiste-historie/Cypress/blob/main/post-request.js), [UPDATE](https://github.com/Nieoczywiste-historie/Cypress/blob/main/update-request.js), [DELETE](https://github.com/Nieoczywiste-historie/Cypress/blob/main/delete-request.js), [API Challenge](https://github.com/Nieoczywiste-historie/Cypress/blob/main/api-challenge.js)
