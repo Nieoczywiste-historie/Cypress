@@ -35,3 +35,18 @@ Using HTTP requests to test API via Cypress and checking response statuses
 * [Inspect item](https://github.com/Nieoczywiste-historie/Cypress/blob/main/inspect-item.cy.js)
 * [Iterate over elements](https://github.com/Nieoczywiste-historie/Cypress/blob/main/iterate-over-elements.cy.js)
 * [Verifing variables](https://github.com/Nieoczywiste-historie/Cypress/blob/main/variables.cy.js)
+
+## Project 4 webdriveruniversity.com
+* [Verify autocomplete dropdown list](https://github.com/Nieoczywiste-historie/Cypress/blob/main/autocomplete-dropdown-list.cy.js)
+* [Validate homepage links](https://github.com/Nieoczywiste-historie/Cypress/blob/main/browser-navigation.cy.js)
+* [Verify checkboxes](https://github.com/Nieoczywiste-historie/Cypress/blob/main/checkboxes.cy.js)
+* [Test Contact Us form](https://github.com/Nieoczywiste-historie/Cypress/blob/main/Contact-Us.cy.js)
+* [Handling data](https://github.com/Nieoczywiste-historie/Cypress/blob/main/data-tables.js)
+* [Test Datepicker](https://github.com/Nieoczywiste-historie/Cypress/blob/main/datepiker.js)
+* [File upload](https://github.com/Nieoczywiste-historie/Cypress/blob/main/file-upload.js)
+* [Handling iframe & Modals](https://github.com/Nieoczywiste-historie/Cypress/blob/main/iframe.cy.js)
+* [Handling JS alerts](https://github.com/Nieoczywiste-historie/Cypress/blob/main/js-alerts.cy.js)
+* [Test mouse actions](https://github.com/Nieoczywiste-historie/Cypress/blob/main/mouse-action.cy.js)
+* [Verify Radio buttons](https://github.com/Nieoczywiste-historie/Cypress/blob/main/radio-buttons.cy.js)
+* [Interact with dropdown lists](https://github.com/Nieoczywiste-historie/Cypress/blob/main/select-dropdown-list.cy.js)
+
