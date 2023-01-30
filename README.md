@@ -15,3 +15,11 @@ During this course I covered:
 * Jenkins (CI)
 * API & XHR testing 
 * Cucumber BDD
+
+## Project 1 Juice-shop testing [Signup login](https://github.com/Nieoczywiste-historie/Cypress/blob/main/signup_login.js)
+* Cloning [repository](https://github.com/qauni/juice-shop) using git command 
+* Going into the cloned folder with cd juice-shop
+* Run npm install & npm start to run server on localhost:3000
+* Testing Signup & Login using random user name and email
+* Testing API 
+
